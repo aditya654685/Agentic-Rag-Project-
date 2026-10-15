@@ -1,6 +1,14 @@
 # Enterprise IT Support Agentic RAG Copilot
 
-An end-to-end **Forward Deployed Engineer (FDE) project** that turns a notebook-style Agentic RAG workflow into a deployable internal product using **LangGraph, FastAPI, Pinecone, Groq, Tavily, HTML, CSS, and JavaScript**.
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20on%20Render-brightgreen?style=for-the-badge&logo=render)](https://agentic-rag-copilot.onrender.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.116-009688?style=flat&logo=fastapi)](https://fastapi.tiangolo.com)
+[![LangGraph](https://img.shields.io/badge/LangGraph-Agentic%20Workflow-blue)](https://langchain-ai.github.io/langgraph/)
+[![Pinecone](https://img.shields.io/badge/Pinecone-Serverless%20Vector%20DB-blueviolet)](https://www.pinecone.io/)
+
+> 🚀 **Live Demo:** [https://agentic-rag-copilot.onrender.com/](https://agentic-rag-copilot.onrender.com/)  
+> 📖 **API Docs (Swagger UI):** [https://agentic-rag-copilot.onrender.com/docs](https://agentic-rag-copilot.onrender.com/docs)
+
+An end-to-end **Forward Deployed Engineer (FDE) project** that turns a notebook-style Agentic RAG workflow into a deployable internal product using **LangGraph, FastAPI, Pinecone, Euron API (gpt-4.1-mini & text-embedding-3-small), Tavily, HTML, CSS, and JavaScript**.
 
 ---
 
